@@ -1,3 +1,6 @@
 [submodule "base"]
 	path = r_dev_base
 	url = https://github.com/mooreryan/r_dev_base.git
+[submodule "r_dev_divnet"]
+	path = r_dev_divnet
+	url = https://github.com/mooreryan/r_dev_divnet.git
